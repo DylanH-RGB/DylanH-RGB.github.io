@@ -11,8 +11,8 @@ is a very interesting concept when trying to code and this lab was overall my fa
 
 * Lab 8,
 
-I enjoyed doing this lab as we had to try and find the average of the judges score. Trying to find the calculation of the max and min score and baseing the answer from the judges.  This lab was not too challenging but also not too easy so overall I enjoyed.
+I enjoyed doing this lab as we had to try and find the average of the judges score. Trying to find the calculation of the max and min score and based the answer from the judges.  This lab was not too challenging but also not too easy so overall I enjoyed.
 
 * Lab 12,
 
-This lab was somethong that I also enjoyed because we are creating an image/gifs. Seeing this we are able to create certain colors with RGB which is very common and can be seen everywhere online. 
+This lab was something that I also enjoyed because we are creating an image/gifs. Seeing this we are able to create certain colors with RGB which is very common and can be seen everywhere online. 
